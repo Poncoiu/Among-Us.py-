@@ -1,0 +1,3 @@
+# Among-Us.py-
+THIS CODE ONLY WORKS FOR PYTHON
+
